@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ruc_news.db
+session.json
+.venv/
+.DS_Store

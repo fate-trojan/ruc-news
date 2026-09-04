@@ -1,0 +1,9 @@
+flask
+sqlalchemy
+redis
+requests
+pandas
+numpy
+jieba
+PyJWT
+mitmproxy
